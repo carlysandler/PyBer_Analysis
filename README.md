@@ -52,7 +52,10 @@ The below steps annotate the process of completing the brief for Deliverable 2, 
  - values = "fare"
 3) Use the loc method on the specified date range, Jan-Apr 2019, to create a new DataFrame and reset the indext to a datetime data type.
 4) Apply the `resample()` function to the newly modified DataFrame, to resample the data in weekly bins, instead of in days, and sum up the data to get:
-- Total Fares for each week
+  - Total Fares for each week
+5) Graph the resampled DataFrame with `df.plot()` and annotate the y-axis label and title.
+  - Use Matplotlib's `"fivethirtyeight"` graph style to present to PyBer's team.  
+
 
 *Deliverable 2:*
 
