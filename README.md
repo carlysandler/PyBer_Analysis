@@ -113,7 +113,13 @@ Average Fare per Driver
    -  The average PyBer driver's reservation price, he or she's willingness to work in a ride-sharing gig, is much higher at $55.50, as stops between rides are of much longer distances, and there low necessity for public transformation (e.g. no Central Business District, agricultral economy)
 
 Looking at the "Total Fare by City Type" muliple lign graph, we can clude that:
-
+- From January to end of April in 2019, all three city types share parallel upticks in Total Fare as well as downtrending points within the timeseries data range.
+- Nearing the end of Februrary, for all city Types, is the peak of total fare performance in the specified timeseries data range.
+ - During this peak, total fares in Urban cities are 5x more than total fares in Rural cities, 1.7% higher than total fares in Suburban cities.
+ - After this peark, there is a major drop in total fares, for all city types, possibily indicating a potential calendar trend (President's Week/Vacation for many school districts)
+- Nearing the end of April and the beginning of May, in a fiscal Q2, we see a significant convergence of Total Fares in Urban and Suburban cities.
+ - With Suburban fares somwhat consitantly increasing at a faster rate, and Urban fares gradually and steadily leveling off
+ - The slope of the gold line is much lower than that of the coral line, indicating an opportunity for PyBer to manage revenues within the month of April.
 
 *PyBer Ride-Sharing Data (2019) from PyBer.ipyng*
 <img width="800" alt="PyBer_Ride_Sharing_Data_2019" src="https://user-images.githubusercontent.com/77628698/111917698-d11c1b00-8a57-11eb-9011-9b07f096b826.png">
