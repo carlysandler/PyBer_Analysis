@@ -63,8 +63,44 @@ The below steps annotate the process of completing the brief for Deliverable 2, 
 
 ---
 ## Results
-Looking at the PyBer Summary DataFrame, we can conclude that:
-- Rural cities 
+Looking at the PyBer Summary DataFrame, based on each city type, we can conclude that:
+Total Rides (Demand)
+- In rural cities, total ride count is 4x lower than the ride count of Urban cities.
+- In rural cities, total ride count is 3.5x lower than the ride count of Suburban cities.
+
+Total Drivers (Supply)
+- Urban cities' total driver count is 9x higher than that of Rural cities.
+- Urban cities' total driver count is 3x higher than that of Suburban cities.
+- Suburban cities' total driver count is 6x higher than that of Rural cities.
+
+Total Fares (Pricing given supply and demand)
+- Total fares of Urban cities are only 2x higher than total fares of Suburban cities.
+ - Note: total rides of Urban cities are 2.6x higher than total rides of Suburban cities
+ - Note: total drivers of Urban cities are almost 5x higher than total drivers of Suburban cities.
+ - Indication of economic inefficency as the supply and demand for Pyber rides in Urban cities are not equal.
+
+% of Total Rides, Drivers, and Fares for each city type (Urban, Suburban, and Rural) can be visually displayed with the below Pie Charts.
+*% of Total Fares by City Type from PyBer.ipynb*
+<img width="340" alt="Fig5" src="https://user-images.githubusercontent.com/77628698/111917833-72a36c80-8a58-11eb-8f68-d11020b9f915.png">
+
+
+*% of Total Rides by City Type from PyBer.ipynb*
+<img width="380" alt="Fig6" src="https://user-images.githubusercontent.com/77628698/111917826-6cad8b80-8a58-11eb-83b0-03504752a77a.png">
+
+*% of Total Drivers by City Type from PyBer.ipynb*
+<img width="346" alt="Fig7" src="https://user-images.githubusercontent.com/77628698/111917863-84850f80-8a58-11eb-9bdc-4cb94473a80b.png">
+
+Average Fare per-Ride
+- The avg fare/ride price in Rural cities is about $10 more than that of Urban cities, and $6 more than that of Suburban cities.
+- With 
+
+Average Fare per Driver
+                           
+  - Total Drivers                          
+  - Total Fares                             
+  - Average Fare per Ride                   
+  - Average Fare per Driver                 
+
 - b
 - b
 - b
@@ -76,16 +112,11 @@ Looking at the "Total Fare by City Type" muliple lign graph, we can clude that:
 -b
 -b
 
-images here
-
-![Fig1](https://user-images.githubusercontent.com/77628698/111910316-43303800-8a37-11eb-9dae-a6059fd0883a.png)
-![Fig6](https://user-images.githubusercontent.com/77628698/111910317-43c8ce80-8a37-11eb-92d4-c9a5d0ef2368.png)
-![Fig7](https://user-images.githubusercontent.com/77628698/111910318-43c8ce80-8a37-11eb-8652-941c7908f2ba.png)
-![Table1](https://user-images.githubusercontent.com/77628698/111910319-43c8ce80-8a37-11eb-9046-aa76fb106998.png)
 
 
----
-## Concluding Statements
+
+*PyBer Ride-Sharing Data (2019) from PyBer.ipyng*
+<img width="800" alt="PyBer_Ride_Sharing_Data_2019" src="https://user-images.githubusercontent.com/77628698/111917698-d11c1b00-8a57-11eb-9011-9b07f096b826.png">
 
 
 
