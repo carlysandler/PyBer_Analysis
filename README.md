@@ -63,6 +63,18 @@ The below steps annotate the process of completing the brief for Deliverable 2, 
 
 ---
 ## Results
+Looking at the PyBer Summary DataFrame, we can conclude that:
+- Rural cities 
+- b
+- b
+- b
+- b
+
+Looking at the "Total Fare by City Type" muliple lign graph, we can clude that:
+-b
+0b
+-b
+-b
 
 images here
 
