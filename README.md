@@ -99,31 +99,20 @@ Average Fare per-Ride
    - It is logical that magnitudes of supply and demand for PyBer rides would be much smaller in Rural cities, and therefore:
     - Rural fares need to be much higher per ride 
 - Urban cities  make up 63% of the total fares and 68% of total rides, so the average fare per ride, although not perfectly competitive, is reflective of these economic varaibles.
+- The average ride in a Suburban city is about 1.3x the fare of the average ride in an Urban city.
+ - With longer average distances from starting to ending point, rides will take longer and use more gas, therefore, should logically be more expensive than those in Urban cities where routes are of much shorter distances and CBDs are in of walking reach, a substitute for PyBer.
  
 
 Average Fare per Driver
 - With 81% of the total rides, Urban cities only make up 63% of the total fares, reflective in its below competitive market value average price per driver at $16.57
- - When supply > demand, in our case, a 20% descripency between % of total rides and % total drivers in Urban cities meaNs:
-    - That the average prices per driver are going to adjust much lower than PyBer should want them to be in terms profitability standards.
-    - This same logic applies to Rural cities where average fares per driver, in a competitive market, must be higher due to lower population density and supply of PyBer drivers. 
- - 
-  - Total Drivers                          
-  - Total Fares                             
-  - Average Fare per Ride                   
-  - Average Fare per Driver                 
-
-- b
-- b
-- b
-- b
+- When supply > demand, in our case, a 20% descripency between % of total rides and % total drivers in Urban cities means:
+   - That the average prices per driver is going to adjust much lower than PyBer should want it to be in terms of revenue standards, in Urban cities.
+   - With lower average fares per driver, due to an oversaturated supply of able-bodied PyBer drivers, the average driver will make 
+- This same logic applies within rural-city dense regions in the US:
+   -  As shown in the DataFrame, in Rural cities: average fares per driver, in a competitive market, must be higher due to lower population density and supply of PyBer drivers. 
+   -  The average PyBer driver's reservation price, he or she's willingness to work in a ride-sharing gig, is much higher at $55.50, as stops between rides are of much longer distances, and there low necessity for public transformation (e.g. no Central Business District, agricultral economy)
 
 Looking at the "Total Fare by City Type" muliple lign graph, we can clude that:
--b
-0b
--b
--b
-
-
 
 
 *PyBer Ride-Sharing Data (2019) from PyBer.ipyng*
