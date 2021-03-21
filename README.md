@@ -31,10 +31,24 @@ The below steps annotate the process of completing the brief for Deliverable 1.
  - Total Rides
  - Total Drivers
  - Total Fares
-  To get the average fare per ride and average fare per driver for each city type.
-4) Create the `Pyber_
+To get the average fare per ride and average fare per driver for each city type.
+4) Create the PyBer summary DataFrame with our five column variables and city type as our index.
+5) Clean up and format the DataFrame, removing the index name and making the column outputs viwer-friendly.
+
+*Deliverable 1:*
+
+![pyber_summary_df](https://user-images.githubusercontent.com/77628698/111909494-eaab6b80-8a33-11eb-8c5f-6b81883a993a.png)
+
+
 ---
 ### Deliverable 2 
+The below steps annotate the process of completing the brief for Deliverable 2.
+1)
+
+*Deliverable 2:*
+
+![Total_Fare_by_City_Type](https://user-images.githubusercontent.com/77628698/111909574-39590580-8a34-11eb-9fb3-e2b817ad5305.png)
+
 ---
 ## Results
 
