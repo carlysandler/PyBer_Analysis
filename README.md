@@ -13,14 +13,14 @@ Firsly, our index variable: `type`. The three different city types in the US we 
   - Suburban
   - Rural
 
-Secondly, our column variables--the key "relational" metrics of interest, that differ by city type and will cross-analyzed for our data visualiation are:
+Secondly, our column variables--the key "relational" metrics of interest that differ by city type (for ascertaining economic efficiency and ride accessibility):
 
-  __Column Variables__
-  - Total Rides 
-  - Total Drivers
-  - Total Fares
-  - Average Fare per Ride
-  - Average Fare per Driver
+  __Column Variables: DataFrame__         __Column Variables: Python script__
+  - Total Rides                             - `total_rides_by_type`
+  - Total Drivers                           - `total_drivers_by_type`
+  - Total Fares                             - `total_fares_by_type`
+  - Average Fare per Ride                   - `avg_fare_per_ride`
+  - Average Fare per Driver                 - `avg_fare_per_driver`
 
 ---
 ### Deliverable 1
