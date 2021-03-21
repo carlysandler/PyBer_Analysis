@@ -81,21 +81,32 @@ Total Fares (Pricing given supply and demand)
 
 % of Total Rides, Drivers, and Fares for each city type (Urban, Suburban, and Rural) can be visually displayed with the below Pie Charts.
 *% of Total Fares by City Type from PyBer.ipynb*
+
 <img width="340" alt="Fig5" src="https://user-images.githubusercontent.com/77628698/111917833-72a36c80-8a58-11eb-8f68-d11020b9f915.png">
 
 
 *% of Total Rides by City Type from PyBer.ipynb*
+
 <img width="380" alt="Fig6" src="https://user-images.githubusercontent.com/77628698/111917826-6cad8b80-8a58-11eb-83b0-03504752a77a.png">
 
 *% of Total Drivers by City Type from PyBer.ipynb*
+
 <img width="346" alt="Fig7" src="https://user-images.githubusercontent.com/77628698/111917863-84850f80-8a58-11eb-9bdc-4cb94473a80b.png">
 
 Average Fare per-Ride
 - The avg fare/ride price in Rural cities is about $10 more than that of Urban cities, and $6 more than that of Suburban cities.
-- With 
+  - In terms of revenue, because Rural cities have much lower population densiy as opposed to Urban or Suburban cities: 
+   - It is logical that magnitudes of supply and demand for PyBer rides would be much smaller in Rural cities, and therefore:
+    - Rural fares need to be much higher per ride 
+- Urban cities  make up 63% of the total fares and 68% of total rides, so the average fare per ride, although not perfectly competitive, is reflective of these economic varaibles.
+ 
 
 Average Fare per Driver
-                           
+- With 81% of the total rides, Urban cities only make up 63% of the total fares, reflective in its below competitive market value average price per driver at $16.57
+ - When supply > demand, in our case, a 20% descripency between % of total rides and % total drivers in Urban cities meaNs:
+    - That the average prices per driver are going to adjust much lower than PyBer should want them to be in terms profitability standards.
+    - This same logic applies to Rural cities where average fares per driver, in a competitive market, must be higher due to lower population density and supply of PyBer drivers. 
+ - 
   - Total Drivers                          
   - Total Fares                             
   - Average Fare per Ride                   
