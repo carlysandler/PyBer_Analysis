@@ -64,6 +64,12 @@ The below steps annotate the process of completing the brief for Deliverable 2, 
 ---
 ## Results
 
+images here
+
+![Fig1](https://user-images.githubusercontent.com/77628698/111910316-43303800-8a37-11eb-9dae-a6059fd0883a.png)
+![Fig6](https://user-images.githubusercontent.com/77628698/111910317-43c8ce80-8a37-11eb-92d4-c9a5d0ef2368.png)
+![Fig7](https://user-images.githubusercontent.com/77628698/111910318-43c8ce80-8a37-11eb-8652-941c7908f2ba.png)
+![Table1](https://user-images.githubusercontent.com/77628698/111910319-43c8ce80-8a37-11eb-9046-aa76fb106998.png)
 
 
 ---
