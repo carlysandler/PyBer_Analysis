@@ -80,6 +80,7 @@ Total Fares (Pricing given supply and demand)
  - Indication of economic inefficency as the supply and demand for Pyber rides in Urban cities are not equal.
 
 % of Total Rides, Drivers, and Fares for each city type (Urban, Suburban, and Rural) can be visually displayed with the below Pie Charts.
+
 *% of Total Fares by City Type from PyBer.ipynb*
 
 <img width="340" alt="Fig5" src="https://user-images.githubusercontent.com/77628698/111917833-72a36c80-8a58-11eb-8f68-d11020b9f915.png">
@@ -105,7 +106,7 @@ Average Fare per-Ride
 
 Average Fare per Driver
 - With 81% of the total rides, Urban cities only make up 63% of the total fares, reflective in its below competitive market value average price per driver at $16.57
-- When supply > demand, in our case, a 20% descripency between % of total rides and % total drivers in Urban cities means:
+- When supply > demand, in our case, a 20% descrepency between % of total rides and % total drivers in Urban cities means:
    - That the average prices per driver is going to adjust much lower than PyBer should want it to be in terms of revenue standards, in Urban cities.
    - With lower average fares per driver, due to an oversaturated supply of able-bodied PyBer drivers, the average driver will make 
 - This same logic applies within rural-city dense regions in the US:
@@ -121,14 +122,23 @@ Looking at the "Total Fare by City Type" muliple lign graph, we can clude that:
  - With Suburban fares somwhat consitantly increasing at a faster rate, and Urban fares gradually and steadily leveling off
  - The slope of the gold line is much lower than that of the coral line, indicating an opportunity for PyBer to manage revenues within the month of April.
 
+Here is an alternate graph that displays the differences between KPI metircs and city type within the Pyber data for 2019.
+
 *PyBer Ride-Sharing Data (2019) from PyBer.ipyng*
 <img width="800" alt="PyBer_Ride_Sharing_Data_2019" src="https://user-images.githubusercontent.com/77628698/111917698-d11c1b00-8a57-11eb-9011-9b07f096b826.png">
-
-
-
 ---
 ### Business Recommendations 
-
-
+Based on the results, I have provivded three recommendations to the CEO of PyBer to help address the disparities among the city types and their ride-sharing data metrics.
+1) To address the 20% descrepency between total drivers and total rides in Urban cities:
+ - Iniate a ride-sharing incentive for consumers, in a marketing campaign, such as a rewards program, to increase the demand for PyBer rides which will increase the total rides, total fares and thereby indirectly improving average fares per drivers.
+ - Put a hiring freeze on Urban city PyBer drivers--in conjunction with the consumer incentive, this will aim to control the supply of drivers and thereby improving the current drivers average fare per ride.
+2) To address the disparity between % of total drivers (16.5%) and % total rides (26.3%) for Suburban cities:
+- To beef up the supply of Suburban drivers, as there are 10 ppts lower than the demand for rides by consumers, PyBer can do further analysis to understand :
+ - The reservation price of the potential driver is, as well as deeper, by city locational analysis to ascertain on a more regional, county, district level, where the greatest number of rides is coming out of the Suburbs.
+ - Then target both employed and unemployed residents of these neighborhoods (through email marketing, social media marketing ads) to join as drivers and prevent against missed opportunties in the future.
+ - Maybe PyBer needs to rethink employee beneifts, because as a ride-sharing contract employee, there are very few desirable benefits, and this could immensely improve the total number of drivers in select Suburban cities.
+3) As for the downtrending time periods for total fares ($ USD) for all city types, specifically nearing the end of February, I believe PyBer should:
+ - Re-evaluate their marketing/advertising calendar and find promotional offerings such as "ride-sharing savings for consumers for every 5 rides" taken to icentivise demand for PyBer, even during non-holiday time periods. Using a promotionality tool such as a "reward with purchase" or a discounted ride bundle, may lower the average fare per ride, but if projected correctly and executed strategically, the cost of losing a little more per ride can be more than made up for in much higher volumes of total ride demand.
+ - This is a classic retail marketing technique to catalyze sales demand in off selling periods.
 
 
