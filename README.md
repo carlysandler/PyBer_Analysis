@@ -24,8 +24,15 @@ Secondly, our column variables--the key "relational" metrics of interest that di
 
 ---
 ### Deliverable 1
-
-
+The below steps annotate the process of completing the brief for Deliverable 1.
+1) Merge the `city_data_df` and the `ride_data_df` using the Pandas `merge()` function, on the shared variable "city", specifying "how" with the parameter `how=left`.
+2) Get the column variables from the merged `pyber_data_df` using the `groupby()` function, in conjunction with `sum()` and `count()` methonds.
+3) Use arithmatic division  on our newly initalizated and calculated variables:
+ - Total Rides
+ - Total Drivers
+ - Total Fares
+  To get the average fare per ride and average fare per driver for each city type.
+4) Create the `Pyber_
 ---
 ### Deliverable 2 
 ---
